@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akife\\source\\repos\\Reactif\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\migrations\\20240803203302_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\migrations\\20240803203302_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\migrations\\20240804120136_firstupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\migrations\\20240804120136_firstupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\reactif.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\reactif.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|c:\\users\\akife\\source\\repos\\reactif\\reactif\\migrations\\20240804194314_secondupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAAEF40-C51E-4CBA-9DF0-54BF39FCF5A3}|Reactif\\Reactif.csproj|solutionrelative:reactif\\migrations\\20240804194314_secondupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Reactif\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Reactif\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAwFsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:29:12.501Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Reactif\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Reactif\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:21:33.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Reactif\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Models\\Student.cs",
+              "RelativeToolTip": "Reactif\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:21:30.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Reactif\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Models\\Course.cs",
+              "RelativeToolTip": "Reactif\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:22:16.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240803203302_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Migrations\\20240803203302_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Reactif\\Migrations\\20240803203302_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Migrations\\20240803203302_InitialCreate.cs",
+              "RelativeToolTip": "Reactif\\Migrations\\20240803203302_InitialCreate.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:33:02.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Reactif\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Reactif\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:23:28.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Program.cs",
+              "RelativeDocumentMoniker": "Reactif\\Program.cs",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Program.cs",
+              "RelativeToolTip": "Reactif\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvyYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:14:52.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Reactif\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Reactif\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T07:41:06.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\appsettings.json",
+              "RelativeDocumentMoniker": "Reactif\\appsettings.json",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\appsettings.json",
+              "RelativeToolTip": "Reactif\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T11:35:59.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "Reactif\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "Reactif\\Models\\StudentCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:13:44.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240804194314_secondUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Migrations\\20240804194314_secondUpdate.cs",
+              "RelativeDocumentMoniker": "Reactif\\Migrations\\20240804194314_secondUpdate.cs",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Migrations\\20240804194314_secondUpdate.cs",
+              "RelativeToolTip": "Reactif\\Migrations\\20240804194314_secondUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:43:14.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240804120136_firstUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Migrations\\20240804120136_firstUpdate.cs",
+              "RelativeDocumentMoniker": "Reactif\\Migrations\\20240804120136_firstUpdate.cs",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Migrations\\20240804120136_firstUpdate.cs",
+              "RelativeToolTip": "Reactif\\Migrations\\20240804120136_firstUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:01:36.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Reactif\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Reactif\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:16:23.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reactif",
+              "DocumentMoniker": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Reactif.csproj",
+              "RelativeDocumentMoniker": "Reactif\\Reactif.csproj",
+              "ToolTip": "C:\\Users\\akife\\source\\repos\\Reactif\\Reactif\\Reactif.csproj",
+              "RelativeToolTip": "Reactif\\Reactif.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T08:56:46.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

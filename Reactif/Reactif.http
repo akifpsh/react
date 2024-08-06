@@ -1,0 +1,6 @@
+@Reactif_HostAddress = http://localhost:5068
+
+GET {{Reactif_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
